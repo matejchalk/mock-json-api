@@ -1,0 +1,10 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "name": "Fluffykins",
+      "product": "toothbrush",
+      "price": 10
+    }
+  ]
+}
