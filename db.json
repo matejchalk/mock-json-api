@@ -2,9 +2,15 @@
   "orders": [
     {
       "id": 1,
-      "name": "Fluffykins",
+      "name": "Mr. Fluffykins",
       "product": "toothbrush",
       "price": 10
+    },
+    {
+      "id": 2,
+      "name": "Mrs. Fluffykins",
+      "product": "mouthwash",
+      "price": 70
     }
   ]
 }
