@@ -7,7 +7,5 @@
       "http://feeds.sbs.nl/video/json/new/all-channels/clip/nederlandselftal/",
       "http://feeds.sbs.nl/video/json/new/all-channels/clip/cafhendriksgenee/"
    ],
-   "anp": [  
-      "https://newsapi.anp.nl/services/sources/7aaa47f6-de91-486e-ab8e-003e9b24f1d5/items"
-   ]
+   "anp": "https://newsapi.anp.nl/services/sources/7aaa47f6-de91-486e-ab8e-003e9b24f1d5/items"
 }
